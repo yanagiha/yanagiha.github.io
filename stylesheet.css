@@ -1,15 +1,21 @@
 body {
-  background-color: #ffffcc
+  background-color: #ffffcc;
 }
 
 header {
-	height: 200px; 
+	height: 150px; 
 	width: 100%; 
 	background-color: #a0522d; 
 	color: #ffffff; 
 }
 
+header p {
+	line-height: 100px; 
+	float: left; 
+	font-size: 30px; 
+}
+
 div.takoyaki {
 color: #ffffff;
-background-color: #a0522d
+background-color: #a0522d;
 }
